@@ -21,3 +21,5 @@ The table below shows the minimum legal visible light transmission (VLT) percent
 | 🇰🇷 | 大韓民國<br>Republic of Korea | | 70% | 40% | 0% | 0% | [1](https://elaw.klri.re.kr/eng_service/lawView.do?hseq=51393&lang=ENG) |
 | 🇸🇬 | 新加坡<br>Singapore | | 70% | 70% | 25% | 25% | [1](https://onemotoring.lta.gov.sg/content/onemotoring/home/owning/modification.html) |
 | 🇬🇧 | 英國<br>United Kingdom | | 75% | 70% | 0% | 0% | [1](https://www.gov.uk/tinted-vehicle-window-rules) |
+| CA | 加拿大<br>Canada | 魁北克省<br>Quebec | 70% | 70% | 0% | 0% | [1](https://saaq.gouv.qc.ca/en/handcrafted-modified-rebuilt-vehicle/tinted-windows) |
+| | | 安大略省<br>Ontario | 70% | 70% | 0% | 0% | [1](https://www.ontario.ca/files/2022-03/mto-passenger-light-duty-vehicle-inspection-standard-en-2022-03-18.pdf) |
